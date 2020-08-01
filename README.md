@@ -1,2 +1,2 @@
 # grades
-1.to know what your grades is
+1.to know what your grade is
